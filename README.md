@@ -4,7 +4,8 @@ Este é um projeto simples desenvolvido na plataforma OutSystems, utilizando o S
 O objetivo principal é demonstrar o funcionamento básico de uma tela com entrada de dados e uma ação no clique.
 
 🚀 Funcionalidades
-![image](https://github.com/user-attachments/assets/14234b7c-d703-4979-af82-9ae0d510d4ed)
+![image](https://github.com/user-attachments/assets/0c643931-867d-430c-b6ff-d3bd15d00153)
+
 
 
 ✅ Tela inicial com:
