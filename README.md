@@ -15,6 +15,8 @@ Um campo de entrada para digitar um nome (Value Name).
 Um botão chamado "Process" que executa a ação ProcessOnClick.
 
 ✅ Ação cliente (Client Action) que processa o valor inserido (pode ser exibido, armazenado, validado ou tratado, dependendo da lógica).
+![image](https://github.com/user-attachments/assets/88271423-c4bb-4e66-9790-36dc99096477)
+
 
 🛠️ Tecnologias Utilizadas
 Plataforma: OutSystems 11
