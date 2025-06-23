@@ -45,7 +45,4 @@ José Carlos Mendes da Silva
 [LinkedIn](https://www.linkedin.com/in/josecarlosmendesdasilva)  
 [GitHub](https://github.com/carlosmendesjmc)  
 
----
-
-📬 Em caso de dúvidas ou sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/seu-repositorio/issues).
 
