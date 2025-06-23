@@ -31,9 +31,10 @@ Projeto de testes automatizados desenvolvido com o **OutSystems Service Studio**
 
 ## 📸 Imagens
 
-| Service Studio | Teste Executado |
-|----------------|-----------------|
-| ![Service Studio](./Imagem%20do%20Service%20Studio.png) | ![Teste Executado](./Imagem%20do%20Test%20Executado.png) |
+| Service Studio | Teste Executado | Cadastro de Veículos |
+|----------------|-----------------|---------------------|
+| ![Service Studio](./Imagem%20do%20Service%20Studio.png) | ![Teste Executado](./Imagem%20do%20Test%20Executado.png) | ![Cadastro de Veículos](./Cadastro%20de%20Veiculos%20.png) |
+
 
 ## 📂 Arquivo
 
